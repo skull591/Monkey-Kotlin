@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.nju.ics.alex.combodroid.ape.AndroidDeviceTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-10-07T16:29:31" hostname="jue" time="0.009">
+  <properties/>
+  <testcase name="getFocusedStackTest" classname="edu.nju.ics.alex.combodroid.ape.AndroidDeviceTest" time="0.009"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
